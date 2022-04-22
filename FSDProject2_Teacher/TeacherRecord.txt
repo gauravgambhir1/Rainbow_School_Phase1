@@ -1,0 +1,9 @@
+
+123:Sita:10:B
+234:Lakshmanan:1:A
+345:Hanuman:7:B
+788:Shiv:8:D
+887:Krish:4:F
+100:Ram|6|A
+300:Ganesh|12|A
+500:Durga|12|A
